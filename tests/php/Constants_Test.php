@@ -11,9 +11,9 @@ use Brain\Monkey\Filters;
 use PHPUnit\Framework\TestCase;
 
 /**
- * Class Test_Constants
+ * Class Constants_Test
  */
-class Test_Constants extends TestCase {
+class Constants_Test extends TestCase {
 	/**
 	 * Sets up the test.
 	 *
